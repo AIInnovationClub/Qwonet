@@ -1,0 +1,4 @@
+arc-agi==0.9.9
+arcengine==0.9.3
+numpy==2.2.6
+torch==2.12.0
